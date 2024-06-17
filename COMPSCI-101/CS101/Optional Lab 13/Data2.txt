@@ -1,0 +1,6 @@
+no numbers
+no numbers yet again
+3.1415926
+1 -3 -125 500
+a b 3.5 c d 4 5.5 e
+final line with no numbers

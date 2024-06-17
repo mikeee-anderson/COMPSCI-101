@@ -1,0 +1,3 @@
+Poland,Polish,Warsaw
+USA,English,Washington D.C.
+Italy,Italian,Rome
